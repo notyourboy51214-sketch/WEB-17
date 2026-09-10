@@ -8,10 +8,10 @@
   --text-dark: #000000;
   --text-light: #FFFFFF;
   --accent: #737373;
-  --font-display: 'Space Grotesk', sans-serif;
-  --font-body: 'Outfit', sans-serif;
-  --border-radius: 17px;
-  --box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  --font-display: 'DM Serif Display', serif;
+  --font-body: 'DM Sans', sans-serif;
+  --border-radius: 16px;
+  --box-shadow: none;
   --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
